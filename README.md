@@ -9,7 +9,7 @@ reproduces every number and every chart shown on screen.
 
 | # | Video | Notebook | Length |
 |---|-------|----------|--------|
-| 01 | [**Linear Regression**](https://youtu.be/8CttUm53Y1I) | [notebook](01-linear-regression/notebook.ipynb) · [open in Colab](https://colab.research.google.com/github/REPLACE_ME_USER/REPLACE_ME_REPO/blob/main/01-linear-regression/notebook.ipynb) | 42 min |
+| 01 | [**Linear Regression**](https://youtu.be/8CttUm53Y1I) | [notebook](01-linear-regression/notebook.ipynb) · [open in Colab](https://colab.research.google.com/github/G0rav/machine_learning_explained_visually_free/blob/main/01-linear-regression/notebook.ipynb) | 42 min |
 | 02 | Gradient Descent — *coming soon* | | |
 
 ## Running the notebooks

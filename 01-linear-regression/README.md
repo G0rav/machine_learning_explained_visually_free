@@ -84,7 +84,7 @@ video, and is organized in three parts:
 ### Run it
 
 **Google Colab (no install required):**
-[open in Colab](https://colab.research.google.com/github/REPLACE_ME_USER/REPLACE_ME_REPO/blob/main/01-linear-regression/notebook.ipynb)
+[open in Colab](https://colab.research.google.com/github/G0rav/machine_learning_explained_visually_free/blob/main/01-linear-regression/notebook.ipynb)
 
 **Locally:**
 
