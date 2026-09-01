@@ -1,6 +1,6 @@
 # 01 · Linear Regression
 
-**[Watch on YouTube](https://youtu.be/8CttUm53Y1I)** · 42 min
+**[Watch on YouTube](https://youtu.be/aRXqBKdyTWA)** · 42 min
 
 This lesson introduces linear regression using a small dataset of six used
 cars. It builds up the model geometrically — as points, lines, and areas on a
