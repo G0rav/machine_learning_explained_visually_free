@@ -1,16 +1,21 @@
 # Machine Learning Explained Visually — Free Course
 
-A free video course that teaches machine learning algorithms through visual,
+A free video course that teaches machine learning through visual,
 step-by-step derivations instead of just equations and slides. Each video
-covers one algorithm and comes with a runnable Jupyter notebook that
-reproduces every number and every chart shown on screen.
+covers one topic — an algorithm, or the mathematics an algorithm rests on —
+and comes with a runnable Jupyter notebook that reproduces every number and
+every chart shown on screen.
+
+Nothing is assumed. Where a video needs mathematics you may not have, the
+mathematics gets its own video rather than a hand-wave.
 
 ## Videos
 
 | # | Video | Notebook | Length |
 |---|-------|----------|--------|
 | 01 | [**Linear Regression**](https://youtu.be/aRXqBKdyTWA) | [notebook](01-linear-regression/notebook.ipynb) · [open in Colab](https://colab.research.google.com/github/G0rav/machine_learning_explained_visually_free/blob/main/01-linear-regression/notebook.ipynb) | 42 min |
-| 02 | Gradient Descent — *coming soon* | | |
+| 02 | [**Differentiation**](02-differentiation) — the calculus ML actually uses | [notebook](02-differentiation/notebook.ipynb) · [open in Colab](https://colab.research.google.com/github/G0rav/machine_learning_explained_visually_free/blob/main/02-differentiation/notebook.ipynb) | 32 min |
+| 03 | Gradient Descent — *coming soon* | | |
 
 ## Running the notebooks
 
@@ -22,9 +27,12 @@ browser using Google's free hosted environment — nothing to install.
 **Option 2 — Run locally**
 
 ```bash
-pip install numpy pandas matplotlib scikit-learn jupyter
+pip install numpy pandas matplotlib scikit-learn sympy jupyter
 jupyter notebook
 ```
+
+Not every notebook needs all of those — video 2 requires only `numpy`, and says
+so where it uses anything else — but that one line covers the whole course.
 
 Each notebook ends with a self-check that asserts every figure shown in the
 video. `checks passed` means your environment reproduces the video exactly.
