@@ -1,6 +1,6 @@
 # 02 · Differentiation — the calculus machine learning actually uses
 
-**Watch on YouTube** — *link added at publication* · 32 min
+**[Watch on YouTube](https://youtu.be/iRNatIA6hJc)** · 30 min
 
 This lesson builds the derivative from nothing and stops exactly where machine
 learning stops needing it. There is no integration, no trigonometry beyond one

@@ -13,8 +13,8 @@ mathematics gets its own video rather than a hand-wave.
 
 | # | Video | Notebook | Length |
 |---|-------|----------|--------|
-| 01 | [**Linear Regression**](https://youtu.be/aRXqBKdyTWA) | [notebook](01-linear-regression/notebook.ipynb) · [open in Colab](https://colab.research.google.com/github/G0rav/machine_learning_explained_visually_free/blob/main/01-linear-regression/notebook.ipynb) | 42 min |
-| 02 | [**Differentiation**](02-differentiation) — the calculus ML actually uses | [notebook](02-differentiation/notebook.ipynb) · [open in Colab](https://colab.research.google.com/github/G0rav/machine_learning_explained_visually_free/blob/main/02-differentiation/notebook.ipynb) | 32 min |
+| 01 | [**Linear Regression**](https://youtu.be/aRXqBKdyTWA) | [notebook](01-linear-regression/notebook.ipynb) · [open in Colab](https://colab.research.google.com/github/G0rav/machine_learning_explained_visually_free/blob/main/01-linear-regression/notebook.ipynb) | 41 min |
+| 02 | [**Differentiation**](https://youtu.be/iRNatIA6hJc) — the calculus ML actually uses | [notebook](02-differentiation/notebook.ipynb) · [open in Colab](https://colab.research.google.com/github/G0rav/machine_learning_explained_visually_free/blob/main/02-differentiation/notebook.ipynb) | 30 min |
 | 03 | Gradient Descent — *coming soon* | | |
 
 ## Running the notebooks
