@@ -17,6 +17,7 @@ mathematics gets its own video rather than a hand-wave.
 | 02 | [**Differentiation**](https://youtu.be/iRNatIA6hJc) — the calculus ML actually uses | [notebook](02-differentiation/notebook.ipynb) · [open in Colab](https://colab.research.google.com/github/G0rav/machine_learning_explained_visually_free/blob/main/02-differentiation/notebook.ipynb) | 30 min |
 | 03 | [**Gradient Descent**](https://youtu.be/LHj_JsDbesg) — how models actually get trained | [notebook](03-gradient-descent/notebook.ipynb) · [open in Colab](https://colab.research.google.com/github/G0rav/machine_learning_explained_visually_free/blob/main/03-gradient-descent/notebook.ipynb) | 24 min |
 | 04 | [**Gradient Descent for Linear Regression**](https://youtu.be/eycqI9ifm54) | [notebook](04-gradient-descent-linear-regression/notebook.ipynb) · [open in Colab](https://colab.research.google.com/github/G0rav/machine_learning_explained_visually_free/blob/main/04-gradient-descent-linear-regression/notebook.ipynb) | 22 min |
+| 05 | [**Multiple Linear Regression**](https://youtu.be/lS16A11OiME) — why a coefficient stops being a fact | [notebook](05-multiple-linear-regression/notebook.ipynb) · [open in Colab](https://colab.research.google.com/github/G0rav/machine_learning_explained_visually_free/blob/main/05-multiple-linear-regression/notebook.ipynb) | 31 min |
 
 ## Running the notebooks
 
