@@ -18,6 +18,7 @@ mathematics gets its own video rather than a hand-wave.
 | 03 | [**Gradient Descent**](https://youtu.be/LHj_JsDbesg) — how models actually get trained | [notebook](03-gradient-descent/notebook.ipynb) · [open in Colab](https://colab.research.google.com/github/G0rav/machine_learning_explained_visually_free/blob/main/03-gradient-descent/notebook.ipynb) | 24 min |
 | 04 | [**Gradient Descent for Linear Regression**](https://youtu.be/eycqI9ifm54) | [notebook](04-gradient-descent-linear-regression/notebook.ipynb) · [open in Colab](https://colab.research.google.com/github/G0rav/machine_learning_explained_visually_free/blob/main/04-gradient-descent-linear-regression/notebook.ipynb) | 22 min |
 | 05 | [**Multiple Linear Regression**](https://youtu.be/lS16A11OiME) — why a coefficient stops being a fact | [notebook](05-multiple-linear-regression/notebook.ipynb) · [open in Colab](https://colab.research.google.com/github/G0rav/machine_learning_explained_visually_free/blob/main/05-multiple-linear-regression/notebook.ipynb) | 31 min |
+| 06 | [**Class Imbalance**](https://youtu.be/ZVEzPWNNPeg) — 98% accuracy, 0% fraud caught | [notebook](06-class-imbalance/notebook.ipynb) · [open in Colab](https://colab.research.google.com/github/G0rav/machine_learning_explained_visually_free/blob/main/06-class-imbalance/notebook.ipynb) | 19 min |
 
 ## Running the notebooks
 
