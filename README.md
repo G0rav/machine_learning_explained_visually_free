@@ -1,10 +1,12 @@
 # Machine Learning Explained Visually — Free Course
 
+[**schoolwhool.com**](https://schoolwhool.com) - SchoolWhool helps you discover what to learn, explore career paths, and find opportunities to grow.
+
 A free video course that teaches machine learning through visual,
 step-by-step derivations instead of just equations and slides. Each video
-covers one topic — an algorithm, or the mathematics an algorithm rests on —
-and comes with a runnable Jupyter notebook that reproduces every number and
-every chart shown on screen.
+covers one topic — an algorithm, the mathematics it rests on, or a complete
+project workflow — and comes with a runnable Jupyter notebook that reproduces
+the data and calculations behind the lesson.
 
 Nothing is assumed. Where a video needs mathematics you may not have, the
 mathematics gets its own video rather than a hand-wave.
@@ -19,6 +21,7 @@ mathematics gets its own video rather than a hand-wave.
 | 04 | [**Gradient Descent for Linear Regression**](https://youtu.be/eycqI9ifm54) | [notebook](04-gradient-descent-linear-regression/notebook.ipynb) · [open in Colab](https://colab.research.google.com/github/G0rav/machine_learning_explained_visually_free/blob/main/04-gradient-descent-linear-regression/notebook.ipynb) | 22 min |
 | 05 | [**Multiple Linear Regression**](https://youtu.be/lS16A11OiME) — why a coefficient stops being a fact | [notebook](05-multiple-linear-regression/notebook.ipynb) · [open in Colab](https://colab.research.google.com/github/G0rav/machine_learning_explained_visually_free/blob/main/05-multiple-linear-regression/notebook.ipynb) | 31 min |
 | 06 | [**Class Imbalance**](https://youtu.be/ZVEzPWNNPeg) — 98% accuracy, 0% fraud caught | [notebook](06-class-imbalance/notebook.ipynb) · [open in Colab](https://colab.research.google.com/github/G0rav/machine_learning_explained_visually_free/blob/main/06-class-imbalance/notebook.ipynb) | 19 min |
+| 07 | **Your First Machine Learning Project, Step by Step** — video link pending | [notebook and project files](07-first-ml-project/README.md) · [open in Colab](https://colab.research.google.com/github/G0rav/machine_learning_explained_visually_free/blob/main/07-first-ml-project/notebook.ipynb) | 12 min |
 
 ## Running the notebooks
 
