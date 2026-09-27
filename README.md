@@ -22,6 +22,7 @@ mathematics gets its own video rather than a hand-wave.
 | 05 | [**Multiple Linear Regression**](https://youtu.be/lS16A11OiME) — why a coefficient stops being a fact | [notebook](05-multiple-linear-regression/notebook.ipynb) · [open in Colab](https://colab.research.google.com/github/G0rav/machine_learning_explained_visually_free/blob/main/05-multiple-linear-regression/notebook.ipynb) | 31 min |
 | 06 | [**Class Imbalance**](https://youtu.be/ZVEzPWNNPeg) — 98% accuracy, 0% fraud caught | [notebook](06-class-imbalance/notebook.ipynb) · [open in Colab](https://colab.research.google.com/github/G0rav/machine_learning_explained_visually_free/blob/main/06-class-imbalance/notebook.ipynb) | 19 min |
 | 07 | **Your First Machine Learning Project, Step by Step** — video link pending | [notebook and project files](07-first-ml-project/README.md) · [open in Colab](https://colab.research.google.com/github/G0rav/machine_learning_explained_visually_free/blob/main/07-first-ml-project/notebook.ipynb) | 12 min |
+| 08 | **Principal Component Analysis** — video link pending | [notebook](08-principal-component-analysis/notebook.ipynb) · [open in Colab](https://colab.research.google.com/github/G0rav/machine_learning_explained_visually_free/blob/main/08-principal-component-analysis/notebook.ipynb) | — |
 
 ## Running the notebooks
 
@@ -40,8 +41,9 @@ jupyter notebook
 Not every notebook needs all of those — video 2 requires only `numpy`, and says
 so where it uses anything else — but that one line covers the whole course.
 
-Each notebook ends with a self-check that asserts every figure shown in the
-video. `checks passed` means your environment reproduces the video exactly.
+Each notebook includes checks for the lesson’s numerical results. Newer
+notebooks also give learner tasks with ✅ for a correct answer, ❌ with the
+expected value for a wrong answer, and ⬜ for an unanswered task.
 
 ## Why the numbers can be trusted
 
