@@ -23,6 +23,7 @@ mathematics gets its own video rather than a hand-wave.
 | 06 | [**Class Imbalance**](https://youtu.be/ZVEzPWNNPeg) — 98% accuracy, 0% fraud caught | [notebook](06-class-imbalance/notebook.ipynb) · [open in Colab](https://colab.research.google.com/github/G0rav/machine_learning_explained_visually_free/blob/main/06-class-imbalance/notebook.ipynb) | 19 min |
 | 07 | **Your First Machine Learning Project, Step by Step** — video link pending | [notebook and project files](07-first-ml-project/README.md) · [open in Colab](https://colab.research.google.com/github/G0rav/machine_learning_explained_visually_free/blob/main/07-first-ml-project/notebook.ipynb) | 12 min |
 | 08 | **Principal Component Analysis** — video link pending | [notebook](08-principal-component-analysis/notebook.ipynb) · [open in Colab](https://colab.research.google.com/github/G0rav/machine_learning_explained_visually_free/blob/main/08-principal-component-analysis/notebook.ipynb) | — |
+| 09 | **How ML Models Work in Production — A Beginner's Guide** — video link pending | [notebook and learning materials](09-ml-production/README.md) · [open in Colab](https://colab.research.google.com/github/G0rav/machine_learning_explained_visually_free/blob/main/09-ml-production/notebook.ipynb) | 16 min |
 
 ## Running the notebooks
 
