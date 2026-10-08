@@ -1,6 +1,6 @@
 # 08 · Principal Component Analysis
 
-Video link: to be added when the PCA video is published.
+**[Watch on YouTube](https://youtu.be/7dCs1PjjTdg)** 
 
 This notebook follows the video's PCA derivation on four customers, then runs
 the same method on 500 **synthetic** customer rows. All data is generated inside

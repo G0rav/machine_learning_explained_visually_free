@@ -1,6 +1,6 @@
 # 07 · Build Your First Machine Learning Project You Can Actually Explain
 
-Video link: to be added when the video is published.
+**[Watch on YouTube](https://youtu.be/Cy0eILNBKm8)** 
 
 - We use only bill length and bill depth as predictors so every row can be plotted in two dimensions. `island`, `sex`, `year`, flipper length, and body mass are excluded. The project predicts the three `species` labels.
 

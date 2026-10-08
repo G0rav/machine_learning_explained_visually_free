@@ -1,6 +1,6 @@
 # How ML Models Work in Production — A Beginner's Guide
 
-Video link: to be added when the video is published.
+**[Watch on YouTube](https://youtu.be/0KbEA8C0s-8)** 
 
 We already have a trained model. What needs to happen before an application can
 use it? This guide follows the penguin classifier from the first ML project:
